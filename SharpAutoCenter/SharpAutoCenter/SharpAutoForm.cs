@@ -12,8 +12,8 @@ using System.Windows.Forms;
 /*
  * So, I'm not sure if this counts as a program header, but here goes...
  * Sales Bonus Calculator - Designed by Devon Cochane (SN 200244662)
- * Last modified 2016-10-14 @ 10:12pm
- * Rev 2
+ * Last modified 2016-10-14 @ 10:26pm
+ * Rev 2.1
  * This program will take given infomation regarding car prices and calculate the total sales amount
 */
 
@@ -186,14 +186,14 @@ namespace SharpAutoCenter
             try
             {
                 _BasePrice = double.Parse(BasePriceTextBox.Text, System.Globalization.NumberStyles.Currency);
-                if (_BasePrice <= 0)
+                if (_BasePrice < 0)
                 {
                     //input validation
                    MessageBox.Show("Base Price must be a positive number");
                    ResetFields();
                 }
                 _TradeIn = double.Parse(TradeInAllowanceTextBox.Text, System.Globalization.NumberStyles.Currency);
-                if (_TradeIn <= 0)
+                if (_TradeIn < 0)
                 {
                     //input validation
                     MessageBox.Show("Trade-in Amount must be a positive number");
