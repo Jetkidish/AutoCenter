@@ -1,1 +1,8 @@
 D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpAutoCenter\SharpAutoCenter\bin\Debug\SharpAutoCenter.exe.config
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpAutoCenter\SharpAutoCenter\bin\Debug\SharpAutoCenter.exe
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpAutoCenter\SharpAutoCenter\bin\Debug\SharpAutoCenter.pdb
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpAutoCenter\SharpAutoCenter\obj\Debug\SharpAutoCenter.SharpAutoForm.resources
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpAutoCenter\SharpAutoCenter\obj\Debug\SharpAutoCenter.Properties.Resources.resources
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpAutoCenter\SharpAutoCenter\obj\Debug\SharpAutoCenter.csproj.GenerateResource.Cache
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpAutoCenter\SharpAutoCenter\obj\Debug\SharpAutoCenter.exe
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpAutoCenter\SharpAutoCenter\obj\Debug\SharpAutoCenter.pdb
